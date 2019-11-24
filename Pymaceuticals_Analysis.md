@@ -1,4 +1,4 @@
-**Pymaceuticals Analysis
+**Pymaceuticals Analysis**
 
   1.Through an evaluation of the outcomes of each analysis, starting with a view of mouse survival rates during treatment, it becomes apparent that the drug Capomulin had the most beneficial, or at least, the lease detrimental effect.  This is perhaps most evident in the last two graphs, “Survival During Treatment” and “Tumor Change over 45 Day Treatment,” where survival rates of mice who were administered this drug had the highest and least digressive survival rates and even showed erosion in tumor growth over the 45 day treatment period.  
 
